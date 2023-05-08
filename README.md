@@ -8,6 +8,6 @@ Protótipo final: Like It - ultimo notebook:
 
 Retorna 3 listas -
 
-1- lista dos comentários do produto pesquisado no mercado livre \n
-2- lista da análise sentimental dos comentários, passando pelo ChatGPT \n
-3- lista da análise de positivo e negativo dos comentários, passando pelo ChatGPT \n
+1- lista dos comentários do produto pesquisado no mercado livre 
+2- lista da análise sentimental dos comentários, passando pelo ChatGPT 
+3- lista da análise de positivo e negativo dos comentários, passando pelo ChatGPT 
