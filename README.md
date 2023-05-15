@@ -1,7 +1,8 @@
 # Like-It
 TCC Fatec Ourinhos
+Link Apresentação: https://docs.google.com/presentation/d/1um-XFKvvA8b0VLOKFhbmHlQ6iphEqR8jteL4LWA8mF4/edit#slide=id.g1e2ce950e85_0_0
 
-O projeto consiste em uma ferramenta de pesquisa de análises de produtos (basicamente um reclame aqui de profutos)
+O projeto consiste em uma ferramenta de pesquisa de análises de produtos (basicamente um reclame aqui de produtos)
 Em fase embrionária, ainda estamos em fase de testes e apenas apresentando nosso protótipo.
 
 Protótipo final: Like It - ultimo notebook:
