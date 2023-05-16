@@ -1,7 +1,7 @@
 # Like-It
 TCC Fatec Ourinhos
 
-Link Apresentação: https://docs.google.com/presentation/d/1um-XFKvvA8b0VLOKFhbmHlQ6iphEqR8jteL4LWA8mF4/edit#slide=id.g1e2ce950e85_0_0
+Link Apresentação: https://docs.google.com/presentation/d/1vVyySn3iltWP2ypW-UWi3Z8_GviU3_vqESd8e-ZsE_g/edit#slide=id.g1e299d132ce_0_0
 
 O projeto consiste em uma ferramenta de pesquisa de análises de produtos (basicamente um reclame aqui de produtos)
 Em fase embrionária, ainda estamos em fase de testes e apenas apresentando nosso protótipo.
